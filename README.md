@@ -277,3 +277,17 @@ If you have constructive feedback for how I can improve this template, please le
 ---
 
 #### Copyright &copy; 2020 [Darian Nocera](https://www.darnocer.io)
+
+
+# My Part
+
+## Monter un environnement de dévelopement Docker 
+
+Une fois que les fichier bien mettre en place :
+docker-compose build
+docker-compose up
+
+
+Permet de voir les logs :
+docker-compose logs
+
